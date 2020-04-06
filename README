@@ -10,18 +10,17 @@ This dataset includes 18 open source projects:
 5.Geronimo
 6.Hadoop
 7.HBase
-8.HTTPCLIENT
-9.IVY
-10.JCR
-11.JMeter
-12.LOG4J2
-13.LUCENE
-14.Mahout
-15.OpenJPA
-16.Pig
-17.POI
-18.VELOCITY
-19.XERCESC
+8.IVY
+9.JCR
+10.JMeter
+11.LOG4J2
+12.LUCENE
+13.Mahout
+14.OpenJPA
+15.Pig
+16.POI
+17.VELOCITY
+18.XERCESC
 
 For each project, there are five csv files:
 **_commitsID.csv
